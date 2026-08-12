@@ -1,0 +1,17 @@
+:root {
+  --bg-color: #0a0a0a;
+  --bg-color-glass: rgba(10, 10, 10, 0.6);
+  --text-main: #ffffff;
+  --text-muted: #a0a0a0;
+  --neon-cyan: #00f3ff;
+  --neon-purple: #bf00ff;
+  --font-main: 'Inter', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  font-family: var(--font-main);
+  overflow-x: hidden;
+}
