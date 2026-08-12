@@ -33,8 +33,8 @@ export default function Hero() {
         <h1 className="hero-title">The Ultimate <span className="highlight">SSH Client</span></h1>
         <p className="hero-subtitle">A modern, high-performance workspace for developers and sysadmins.</p>
         <div className="cta-container">
-          <button className="cta-button">Download for macOS</button>
-          <button className="cta-button outline">Download for Windows</button>
+          <a href="https://github.com/hongsonvu0622-stack/aetherssh-tool" target="_blank" rel="noopener noreferrer" className="cta-button">Download for macOS</a>
+          <a href="https://github.com/hongsonvu0622-stack/aetherssh-tool" target="_blank" rel="noopener noreferrer" className="cta-button outline">Download for Windows</a>
         </div>
       </div>
       
